@@ -110,7 +110,7 @@ input {
 <body>
 
 <div id="myDIV" class="header">
-  <h2 style="margin:5px">Rabi Greene's Applicant To Do List</h2>
+  <h2 style="margin:5px">Rabi Greene's To Do List</h2>
   <input type="text" id="myInput" placeholder="Rabi's task...">
   <span onclick="newElement()" class="addBtn">Add</span>
 </div>
