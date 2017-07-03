@@ -7,7 +7,7 @@ body {
   min-width: 250px;
 }
 /* Include the padding and border in an element's total width and height */
-* {
+*
   box-sizing: border-box;
 }
 /* Remove margins and padding from the list */
@@ -20,7 +20,7 @@ ul li {
   cursor: pointer;
   position: relative;
   padding: 12px 8px 12px 40px;
-  background: #eee;
+  background: #f20909;
   font-size: 18px;
   transition: 0.4s;
   
